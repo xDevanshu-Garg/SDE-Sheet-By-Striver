@@ -1,40 +1,34 @@
-# SDE-Sheet-By-Striver
+# 🚀 45-Day SDE Sheet Challenge by Striver
 
-A comprehensive solution repository for the **SDE Sheet Challenge by Striver**. This repository contains optimized C++ solutions for various Data Structure and Algorithm problems from LeetCode.
+![Challenge Banner/Badge](https://img.shields.io/badge/Challenge-45_Days_of_Code-orange?style=for-the-badge&logo=appveyor)
+![Completion Status](https://img.shields.io/badge/Progress-Day_1%2F45-brightgreen?style=for-the-badge)
 
----
+## 📌 About This Repository
+This repository documents my daily progress, C++ solutions, and handwritten notes for the **45-Day SDE Sheet Challenge** organized by Raj Vikramaditya (Striver) and takeUforward. 
 
-## 📋 Table of Contents
+The goal of this challenge is to maintain strict consistency for 45 days, master Data Structures and Algorithms (DSA), and build a strong foundation for software engineering interviews. All solutions included are optimized for time and space complexity, with comments explaining the approaches used.
 
-- [Arrays](#arrays)
+## 👨‍💻 About Me
+Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently in my VIth semester. I'm utilizing this challenge to sharpen my problem-solving skills, deep-dive into core algorithmic concepts, and share my learning journey with the developer community. 
 
----
+- **Language Used:** C++
+- **Connect with me on X (Twitter):** [@xdevanshugarg](https://x.com/xdevanshugarg)
+- **Connect with me on LinkedIn:** [Devanshu Garg](https://www.linkedin.com/in/devanshu-garg-ecaajmer/)
 
-## 📚 Arrays
+## 📅 Progress Tracker
 
-| # | Problem | Solution | LeetCode Link |
-|---|---------|----------|---------------|
-| 01 | Set Matrix Zero | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/01_SetMatrixZero.cpp) | [Submit](https://leetcode.com/problems/set-matrix-zeroes/) |
-| 02 | Pascal's Triangle | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/02_PascalsTriangle.cpp) | [Submit](https://leetcode.com/problems/pascals-triangle/) |
-| 03 | Next Permutation | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/03_NextPermutation.cpp) | [Submit](https://leetcode.com/problems/next-permutation/) |
+### Arrays
+| # | Problem | Solution Code | Notes / Learnings | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **01** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/01_SetMatrixZero.cpp) | [Notes](./Notes/Day1_Notes.pdf) | ✅ |
+| **02** | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/02_PascalsTriangle.cpp) | - | ✅ |
+| **03** | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/03_NextPermutation.cpp) | - | ✅ |
 
----
+*(Table will be updated daily as I progress through the challenge).*
 
-## 🎯 How to Use This Repository
+## 💡 Repository Structure
+- `/Arrays`: Contains the C++ source code for the Array problems.
+- `/Notes`: Contains digital/scanned copies of my notes and dry-runs for complex problems.
 
-1. **Navigate** to the problem folder (e.g., `Arrays/`)
-2. **Review** the C++ solution code
-3. **Submit** using the LeetCode link provided in the table
-4. **Learn** from the comments and approach used
-
----
-
-## 📝 Notes
-
-- All solutions are optimized for time and space complexity
-- Each solution includes comments explaining the approach
-- LeetCode submission links are included for reference
-
----
-
-**Happy Coding! 🚀**
+## 🤝 Acknowledgments
+Huge thanks to [Striver](https://twitter.com/striver_79) and the [takeUforward](https://takeuforward.org/) team for curating this sheet and hosting the challenge!
