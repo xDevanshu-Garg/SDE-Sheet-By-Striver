@@ -14,9 +14,9 @@ A comprehensive solution repository for the **SDE Sheet Challenge by Striver**. 
 
 | # | Problem | Solution | LeetCode Link |
 |---|---------|----------|---------------|
-| 01 | Set Matrix Zero | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/01_SetMatrixZero.cpp) | [Submit](https://leetcode.com/problems/set-matrix-zeroes/submissions/2019087441/) |
-| 02 | Pascal's Triangle | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/02_PascalsTriangle.cpp) | [Submit](https://leetcode.com/problems/pascals-triangle/submissions/2019088315/) |
-| 03 | Next Permutation | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/03_NextPermutation.cpp) | [Submit](https://leetcode.com/problems/next-permutation/submissions/2018927021/) |
+| 01 | Set Matrix Zero | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/01_SetMatrixZero.cpp) | [Submit](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 02 | Pascal's Triangle | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/02_PascalsTriangle.cpp) | [Submit](https://leetcode.com/problems/pascals-triangle/) |
+| 03 | Next Permutation | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/03_NextPermutation.cpp) | [Submit](https://leetcode.com/problems/next-permutation/) |
 
 ---
 
