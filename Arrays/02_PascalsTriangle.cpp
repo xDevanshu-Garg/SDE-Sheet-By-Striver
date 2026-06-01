@@ -3,7 +3,7 @@
 using namespace std;
 
 
-//! Pascal's Traingle Link: https://leetcode.com/problems/pascals-triangle/
+//! Pascal's Traingle Link: https://leetcode.com/problems/pascals-triangle/submissions/2019088315/
 
 // Main observation: See this triangle as right angle triangle
 class Solution {
