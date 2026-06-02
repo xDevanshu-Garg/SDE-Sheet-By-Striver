@@ -20,7 +20,7 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 ### Arrays
 | # | Problem | Solution Code | Notes / Learnings | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/01_SetMatrixZero.cpp) | [Notes](./Notes/Day1_Notes.pdf) | ✅ |
+| **01** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/01_SetMatrixZero.cpp) | [Notes](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Notes/Day-1.pdf) | ✅ |
 | **02** | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/02_PascalsTriangle.cpp) | - | ✅ |
 | **03** | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [View Code](https://github.com/xDevanshu-Garg/SDE-Sheet-By-Striver/blob/main/Arrays/03_NextPermutation.cpp) | - | ✅ |
 
