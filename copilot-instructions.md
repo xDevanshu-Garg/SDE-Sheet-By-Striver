@@ -55,3 +55,12 @@ Only append new entries.
 
 If a change would modify more than 10 lines outside the Progress Tracker table,
 STOP and ask for confirmation.
+
+## Validation Checklist
+
+Before editing README.md:
+
+- Verify that existing rows are unchanged.
+- Verify that only new rows were added.
+- Verify that no sections outside Progress Tracker were modified.
+- If any other modification is required, ask for confirmation first.
