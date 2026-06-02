@@ -1,7 +1,6 @@
 # 🚀 45-Day SDE Sheet Challenge by Striver
 
 ![Challenge Banner/Badge](https://img.shields.io/badge/Challenge-45_Days_of_Code-orange?style=for-the-badge&logo=appveyor)
-![Completion Status](https://img.shields.io/badge/Progress-Day_1%2F45-brightgreen?style=for-the-badge)
 
 ## 📌 About This Repository
 This repository documents my daily progress, C++ solutions, and handwritten notes for the **45-Day SDE Sheet Challenge** organized by Raj Vikramaditya (Striver) and takeUforward. 
@@ -20,7 +19,7 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 ### Arrays
 | # | Problem | Solution Code | Notes / Learnings | Status |
 | :---: | :--- | :---: | :---: | :---: |
-| **01** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [View Code](./01Arrays/01_SetMatrixZero.cpp) | [Notes](./Notes/Day-1.pdf) | ✅ |
+| **01** | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [View Code](./01Arrays/01_SetMatrixZero.cpp) | 📝 [Notes](./Notes/Day-1.pdf) | ✅ |
 | **02** | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [View Code](./01Arrays/02_PascalsTriangle.cpp) | - | ✅ |
 | **03** | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [View Code](./01Arrays/03_NextPermutation.cpp) | - | ✅ |
 | **04** | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [View Code](./01Arrays/04_Kadane'sAlgo.cpp) | - | ✅ |
