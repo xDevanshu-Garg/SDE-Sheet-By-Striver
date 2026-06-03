@@ -25,6 +25,9 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 | **04** | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [View Code](./01Arrays/04_Kadane'sAlgo.cpp) | - | ✅ |
 | **05** | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [View Code](./01Arrays/05_SortColors.cpp) | - | ✅ |
 | **06** | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [View Code](./01Arrays/06_BestTimeToBuyAndSellStocks1.cpp) | - | ✅ |
+| **07** | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [View Code](./02Arrays/07_RotateImage.cpp) | - | ✅ |
+| **08** | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [View Code](./02Arrays/08_MergeIntervals.cpp) | - | ✅ |
+| **09** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [View Code](./02Arrays/09_MergeTwoSortedArrays.cpp) | - | ✅ |
 
 *(Table will be updated daily as I progress through the challenge).*
 
