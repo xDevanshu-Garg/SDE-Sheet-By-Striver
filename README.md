@@ -29,8 +29,8 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 | **08** | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [View Code](./02Arrays/08_MergeIntervals.cpp) | - | ✅ |
 | **09** | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [View Code](./02Arrays/09_MergeTwoSortedArrays.cpp) | - | ✅ |
 | **10** | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [View Code](./02Arrays/10_FindTheDuplicateNumber.cpp) | - | ✅ |
-| **11** | [Find the Missing and Duplicate Numbers](https://www.geeksforgeeks.org/find-a-missing-and-a-repeated-element/) | [View Code](./02Arrays/11_FindMissingAndDuplicate.cpp) | - | ✅ |
-| **12** | [Count Inversions](https://www.geeksforgeeks.org/counting-inversions/) | [View Code](./02Arrays/12_CountInversions.cpp) | - | ✅ |
+| **11** | [Find The Duplicate and Missing Number](https://leetcode.com/problems/set-mismatch/) | [View Code](./02Arrays/11_FindMissingAndDuplicate.cpp) | - | ✅ |
+| **12** | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [View Code](./02Arrays/12_CountInversions.cpp) | - | ✅ |
 
 *(Table will be updated daily as I progress through the challenge).*
 
