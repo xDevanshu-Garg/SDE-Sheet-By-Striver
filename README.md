@@ -31,6 +31,9 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 | **10** | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [View Code](./02Arrays/10_FindTheDuplicateNumber.cpp) | - | ✅ |
 | **11** | [Find The Duplicate and Missing Number](https://leetcode.com/problems/set-mismatch/) | [View Code](./02Arrays/11_FindMissingAndDuplicate.cpp) | - | ✅ |
 | **12** | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [View Code](./02Arrays/12_CountInversions.cpp) | - | ✅ |
+| **13** | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [View Code](./03Arrays/13.1_SearchInA2DMatrix.cpp) | - | ✅ |
+| **14** | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [View Code](./03Arrays/14_Pow(x,n).cpp) | - | ✅ |
+| **15** | [Majority Element](https://leetcode.com/problems/majority-element/) | [View Code](./03Arrays/15_MajorityElement.cpp) | - | ✅ |
 
 *(Table will be updated daily as I progress through the challenge).*
 
