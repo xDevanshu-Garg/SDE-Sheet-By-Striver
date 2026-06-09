@@ -36,6 +36,12 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 | **14** | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [View Code](./03Arrays/14_Pow(x,n).cpp) | - | ✅ |
 | **15** | [Majority Element](https://leetcode.com/problems/majority-element/) | [View Code](./03Arrays/15_MajorityElement1.cpp) | - | ✅ |
 | **16** | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [View Code](./03Arrays/16_MajrityElement2.cpp) | - | ✅ |
+| **17** | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [View Code](./03Arrays/17_UniquePaths.cpp) | - | ✅ |
+| **18** | [Reverse Pairs](./03Arrays/18_ReversePairs.cpp) | [View Code](./03Arrays/18_ReversePairs.cpp) | - | ✅ |
+| **19** | [Two Sum](https://leetcode.com/problems/two-sum/) | [View Code](./04Arrays/19_TwoSum.cpp) | - | ✅ |
+| **20** | [3Sum](https://leetcode.com/problems/3sum/) | [View Code](./04Arrays/20.1_3Sum.cpp) | - | ✅ |
+| **20.2** | [4Sum](https://leetcode.com/problems/4sum/) | [View Code](./04Arrays/20.2_4Sum.cpp) | - | ✅ |
+| **21** | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [View Code](./04Arrays/21_LongestConsecutiveSequence.cpp) | - | ✅ |
 
 *(Table will be updated daily as I progress through the challenge).*
 
