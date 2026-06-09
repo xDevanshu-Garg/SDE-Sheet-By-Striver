@@ -34,7 +34,7 @@ class Solution {
     
     void mergeSort(vector<int>& arr, int l, int h, int& ans) {
         // Base Case
-        if(l >= h == 1) return;
+        if(l >= h) return;
         
         int mid = l + (h - l) / 2;
         mergeSort(arr, l, mid, ans);
