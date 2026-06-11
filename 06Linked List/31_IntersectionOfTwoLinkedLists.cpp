@@ -43,3 +43,20 @@ public:
         return NULL;
     }
 };
+
+// Short version of above code
+class Solution {
+public:
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode* a = headA;
+        ListNode* b = headB;
+
+        while(a != b) {
+            // If a reaches end, move to headB; else move forward
+            a = a ? a->next : headB;
+            b = b ? b->next : headA; // Same for b
+        }
+
+        return a; // Can be nullptr or intersection node
+    }
+};
