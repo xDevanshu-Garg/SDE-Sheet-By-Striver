@@ -5,6 +5,8 @@ using namespace std;
 // This code is for negative numbers. 
 
 // ***************** count how many subarrays have sum k ******************
+//! LINK: https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1
+
 class Solution {
 public:
     int countSubarrays(vector<int>& arr, int k) {
@@ -27,6 +29,8 @@ public:
         return cnt;
     }
 };
+
+//! LINK: https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
 
 // ***************** longest subarray with sum k ******************
 class Solution {

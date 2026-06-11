@@ -42,6 +42,23 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 | **20** | [3Sum](https://leetcode.com/problems/3sum/) | [View Code](./04Arrays/20.1_3Sum.cpp) | - | ✅ |
 | **20.2** | [4Sum](https://leetcode.com/problems/4sum/) | [View Code](./04Arrays/20.2_4Sum.cpp) | - | ✅ |
 | **21** | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [View Code](./04Arrays/21_LongestConsecutiveSequence.cpp) | - | ✅ |
+| **22** | [Maximum Size Subarray Sum Equals K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [View Code](./04Arrays/22.1_(Possitive)LargestSubarrayWithSumK.cpp) | - | ✅ |
+| **22.2** | [Largest Subarray With Sum K (Negative)](https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1) | [View Code](./04Arrays/22.2_(Negative)LargestSubarrayWithSumK.cpp) | - | ✅ |
+| **23** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [View Code](./04Arrays/23_CountSubarraysWithGivenXOR.cpp) | - | ✅ |
+| **24** | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [View Code](./04Arrays/24_LongestSubstringWithoutRepeatingCharacters.cpp) | - | ✅ |
+
+### Linked List
+| # | Problem | Solution Code | Notes / Learnings | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **25** | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [View Code](./05Linked%20List/25_ReverseLL.cpp) | - | ✅ |
+| **26** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [View Code](./05Linked%20List/26_MiddleOfLL.cpp) | - | ✅ |
+| **27** | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [View Code](./05Linked%20List/27_MergeTwoSortedLists.cpp) | - | ✅ |
+| **28** | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [View Code](./05Linked%20List/28_RemoveNthNodeFromEndOfList.cpp) | - | ✅ |
+| **29** | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [View Code](./05Linked%20List/29_AddTwoNumber.cpp) | - | ✅ |
+| **30** | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [View Code](./05Linked%20List/30_DeleteNodeInLinkedList.cpp) | - | ✅ |
+| **31** | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [View Code](./06Linked%20List/31_IntersectionOfTwoLinkedLists.cpp) | - | ✅ |
+| **32** | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [View Code](./06Linked%20List/32_LinkedListCycle.cpp) | - | ✅ |
+| **33** | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [View Code](./06Linked%20List/33_ReverseNodesInk-Group.cpp) | - | ✅ |
 
 *(Table will be updated daily as I progress through the challenge).*
 
