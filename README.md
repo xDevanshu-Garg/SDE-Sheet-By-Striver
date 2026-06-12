@@ -59,6 +59,9 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 | **31** | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [View Code](./06Linked%20List/31_IntersectionOfTwoLinkedLists.cpp) | - | ✅ |
 | **32** | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [View Code](./06Linked%20List/32_LinkedListCycle.cpp) | - | ✅ |
 | **33** | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [View Code](./06Linked%20List/33_ReverseNodesInk-Group.cpp) | - | ✅ |
+| **34** | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [View Code](./06Linked%20List/34_CheckPalindromeInLL.cpp) | - | ✅ |
+| **35** | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [View Code](./06Linked%20List/35_LLCycle2.cpp) | - | ✅ |
+| **36** | [Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [View Code](./06Linked%20List/36_FlatteningLL.cpp) | - | ✅ |
 
 *(Table will be updated daily as I progress through the challenge).*
 
