@@ -19,4 +19,15 @@ public:
 
         return (neg) ? 1 / ans : ans;
     }
+
+    // Template
+    long long fastPow(long long base, long long exp) {
+        long long ans = 1;
+        while(exp) {
+            if(exp & 1) ans *= base;
+            base = base * base; 
+            exp >>= 1;
+        }
+        return ans;
+    }
 };
