@@ -50,7 +50,7 @@ public:
     }
 };
 
-//*********************************Space Optimized*****************************************
+//*********************************Space Optimized*************************************
 class Solution {
 public:
     int uniquePaths(int m, int n) {
@@ -66,3 +66,42 @@ public:
         return curr[n-1];
     }
 };
+
+//******************Mathematical Approach (Combinatorics)**********************
+// Intuition: We have to move right n-1 times and down m-1 times, so total moves are m+n-2.
+// Let's say m = 6, n = 4, so total moves are N = 6 + 4 - 2 = 8 and we have to choose 3 moves from right and 5 moves from down, so we can say that we have to choose 3 moves from total 8 moves, so the answer is 8C3 = 8! / 3! * 5! = (8 * 7 * 6) / (3 * 2 * 1) = 56. So the answer is 56 or we can say that we have to choose 5 moves from total 8 moves, so the answer is 8C5 = 8! / 5! * 3! = (8 * 7 * 6) / (3 * 2 * 1) = 56. So the answer is 56. So we can say that nCr == nCn-r, so we can compute smaller one to avoid overflow and reduce time complexity. 
+class Solution {
+public:
+    int uniquePaths(int m, int n) {
+        int left = m - 1;
+        int right = n - 1;
+
+        int N = left + right;; // m + n - 2;
+
+        int r = min(left, right); // nCr == nCn-r , so why not compute smaller once
+
+        // 8C3 = 8! / 3! * 5! so remaining is 8 * 7 * 6 / 3 * 2 * 1
+        // This loop simulates above expression 
+        long long ans = 1;
+        for(int i = 1; i <= r; i++) {
+            ans = ans * (N - r + i) / i;
+        }
+
+        return ans;
+    }
+};
+
+
+// Template
+/*
+int N = n + m - 2;
+int r = min(n-1, m-1);
+
+long long ans = 1;
+
+for(int i = 1; i <= r; i++) {
+    ans = ans * (N - r + i) / i;
+}
+
+return ans;
+*/
