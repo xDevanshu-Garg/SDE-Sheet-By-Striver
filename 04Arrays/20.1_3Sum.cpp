@@ -12,7 +12,7 @@ public:
         vector<vector<int>> ans;
 
         for(int i = 0; i < n-2; i++) {
-            if(i != 0 && nums[i-1] == nums[i]) continue; // Skip dip for i
+            if(i != 0 && nums[i-1] == nums[i]) continue; // Skip dup for i
 
             int x = i + 1, y = n-1;
             while(x < y) {

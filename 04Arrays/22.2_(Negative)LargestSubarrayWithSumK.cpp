@@ -26,6 +26,13 @@ public:
             mp[pref]++;
         }
 
+        // or
+        for (int x : arr) {
+            pref += x;
+            cnt += mp[pref - k];
+            mp[pref]++;
+        }
+
         return cnt;
     }
 };
