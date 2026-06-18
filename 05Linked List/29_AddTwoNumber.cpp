@@ -61,3 +61,32 @@ public:
         return dummy->next;
     }
 };
+
+//********************* CLEANER CODE **********************
+
+
+class Solution {
+public:
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ListNode* dummy = new ListNode(0);
+        ListNode* temp = dummy;
+
+        int carry = 0;
+        while(l1 || l2 || carry) {
+            int x = (l1) ? l1->val : 0;
+            int y = (l2) ? l2->val : 0;
+
+            int sum = x + y + carry;
+            carry = sum / 10;
+
+            int digit = sum % 10;
+            temp->next = new ListNode(digit);
+
+            l1 = (l1) ? l1->next : NULL;
+            l2 = (l2) ? l2->next : NULL;
+            temp = temp->next;
+        }
+
+        return dummy->next;
+    }
+};

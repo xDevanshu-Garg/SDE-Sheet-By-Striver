@@ -15,7 +15,7 @@ struct ListNode {
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        // Create dummy, move fast n ahead, move slow and fast untill LL ends, now slow is at the node which we wanna delete, so stop 1 before or like in our code move fast extra 1 ahead and then slow->next is the node we wanna delete, so delete it.
+        // Create dummy, move fast n ahead, move slow and fast until LL ends, now slow is at the node which we wanna delete, so stop 1 before or like in our code move fast extra 1 ahead and then slow->next is the node we wanna delete, so delete it.
         ListNode* dummy = new ListNode(0, head);
         ListNode* fast = dummy;
         ListNode* slow = dummy;
