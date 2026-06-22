@@ -63,6 +63,52 @@ Hi, I'm **Devanshu Garg**, a Computer Science and Engineering student currently 
 | **35** | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [View Code](./06Linked%20List/35_LLCycle2.cpp) | - | ✅ |
 | **36** | [Flattening a Linked List](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [View Code](./06Linked%20List/36_FlatteningLL.cpp) | - | ✅ |
 
+### Linked List & Arrays
+| # | Problem | Solution Code | Notes / Learnings | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **37** | [Rotate List](https://leetcode.com/problems/rotate-list/) | [View Code](./07Linked%20List%20&%20Arrays/37_RotateLL.cpp) | - | ✅ |
+| **38** | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [View Code](./07Linked%20List%20&%20Arrays/38_CopyListWithRandomPointer.cpp) | - | ✅ |
+| **39** | [3Sum](https://leetcode.com/problems/3sum/) | [View Code](./07Linked%20List%20&%20Arrays/39_3Sum.cpp) | - | ✅ |
+| **40** | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [View Code](./07Linked%20List%20&%20Arrays/40_TrappingRainwater.cpp) | - | ✅ |
+| **41** | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [View Code](./07Linked%20List%20&%20Arrays/41_RemoveDupsFromSortedArray.cpp) | - | ✅ |
+| **42** | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [View Code](./07Linked%20List%20&%20Arrays/42_MaxConsicutiveOnes.cpp) | - | ✅ |
+
+### Greedy
+| # | Problem | Solution Code | Notes / Learnings | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **43** | [N Meetings in One Room](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?source=strivers-sde-sheet) | [View Code](./08Greedy/43_N_MeetingInOneRoom.cpp) | - | ✅ |
+| **44** | [Minimum Platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [View Code](./08Greedy/44_Minimum%20Platforms.cpp) | - | ✅ |
+| **45** | [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | [View Code](./08Greedy/45_JobSequencingProblem.cpp) | - | ✅ |
+| **46** | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [View Code](./08Greedy/46_Fractional%20Knapsack.cpp) | - | ✅ |
+| **47** | [Coin Change](https://leetcode.com/problems/coin-change/) | [View Code](./08Greedy/47_CoinChange.cpp) | - | ✅ |
+| **48** | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [View Code](./08Greedy/48_AssignCookies.cpp) | - | ✅ |
+
+### Recursion
+| # | Problem | Solution Code | Notes / Learnings | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **49** | [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [View Code](./09Recursion/49_SubsetSumEqualsToTarget.cpp) | - | ✅ |
+| **50** | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [View Code](./09Recursion/50_Subsets2.cpp) | - | ✅ |
+| **51** | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [View Code](./09Recursion/51_CombinationSum.cpp) | - | ✅ |
+| **52** | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [View Code](./09Recursion/52_CombinationSum2.cpp) | - | ✅ |
+| **53** | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [View Code](./09Recursion/53_PalindromePartitioning.cpp) | - | ✅ |
+| **54** | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [View Code](./09Recursion/54_PermutationSequence.cpp) | - | ✅ |
+
+### Recursion + BackTracking
+| # | Problem | Solution Code | Notes / Learnings | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **55** | [Permutations](https://leetcode.com/problems/permutations/) | [View Code](./10Recursion+BackTracking/55_Permutation.cpp) | - | ✅ |
+| **56** | [N-Queens](https://leetcode.com/problems/n-queens/) | [View Code](./10Recursion+BackTracking/56_NQueens.cpp) | - | ✅ |
+| **57** | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [View Code](./10Recursion+BackTracking/57_SudokoSolver.cpp) | - | ✅ |
+| **58** | [M-Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | [View Code](./10Recursion+BackTracking/58_MColoringGraph.cpp) | - | ✅ |
+| **59** | [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [View Code](./10Recursion+BackTracking/59_RatInAMaze.cpp) | - | ✅ |
+
+### Heaps
+| # | Problem | Solution Code | Notes / Learnings | Status |
+| :---: | :--- | :---: | :---: | :---: |
+| **69** | [Implement Max Heap](https://www.geeksforgeeks.org/problems/max-heap-implementation/1) | [View Code](./12Heaps/69_ImplementMaxHeap.cpp) | - | ✅ |
+| **70** | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [View Code](./12Heaps/70_KthLargestElementInArray.cpp) | - | ✅ |
+| **71** | [Maximum Sum Combination](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | [View Code](./12Heaps/71_MaximumSumCombination.cpp) | - | ✅ |
+
 *(Table will be updated daily as I progress through the challenge).*
 
 ## 💡 Repository Structure
