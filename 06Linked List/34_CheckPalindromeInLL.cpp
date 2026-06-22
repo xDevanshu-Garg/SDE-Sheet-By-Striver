@@ -26,29 +26,27 @@ public:
             fast = fast->next->next;
         }
 
-        // Step 2: Rev LL before slow
-        ListNode* prev = NULL;
-        ListNode* curr = head;
+        // Step 2: If LL is odd move slow 1 ahead eg: 1 2 3 2 1, move slow from 3 to 2
+        if(fast) {
+            slow = slow->next;
+        }
 
-        while(curr != slow) {
+        // Step 3: Rev LL from slow
+        ListNode* prev = NULL;
+        ListNode* curr = slow;
+
+        while(curr) {
             ListNode* forward = curr->next;
             curr->next = prev;
             prev = curr;
             curr = forward;
         }
-        head->next = slow; // Connect both LL together 
-        head = prev; // New head is prev now
-
-        // Step 3: If LL is odd move slow 1 ahead eg: 1 2 3 2 1, move slow from 3 to 2
-        if(fast) {
-            slow = slow->next;
-        }
 
         // Step 4: Now check for palindrome
-        while(slow) {
-            if(head->val != slow->val) return false;
+        while(prev) {
+            if(head->val != prev->val) return false;
             head = head->next;
-            slow = slow->next;
+            prev = prev->next;
         }
 
         return true;
