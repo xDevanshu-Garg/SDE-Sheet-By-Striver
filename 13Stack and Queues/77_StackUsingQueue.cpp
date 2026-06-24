@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//! Implement Queue using Stack LINK: https://leetcode.com/problems/implement-stack-using-queues/submissions/2045261595/
+//! Implement Stack using Queue LINK: https://leetcode.com/problems/implement-stack-using-queues/submissions/2045261595/
 class MyStack {
 public:
     queue<int> q;
