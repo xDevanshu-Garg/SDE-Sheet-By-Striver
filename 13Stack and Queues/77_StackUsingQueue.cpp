@@ -33,3 +33,5 @@ public:
         return q.empty();
     }
 };
+
+// TC: O(n) for push, O(1) for pop, top, empty
