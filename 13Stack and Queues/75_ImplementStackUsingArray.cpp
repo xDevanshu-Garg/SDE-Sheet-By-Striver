@@ -45,3 +45,6 @@ class myStack {
         return arr[i-1];
     }
 };
+
+// TC: O(1) for all operations
+// SC: O(n) where n is the size of the stack

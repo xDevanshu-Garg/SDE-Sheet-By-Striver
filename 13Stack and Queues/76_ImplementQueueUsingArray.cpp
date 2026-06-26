@@ -56,3 +56,6 @@ class myQueue {
         return arr[(b - 1 + n) % n];
     }
 };
+
+// TC: O(1) for all operations
+// SC: O(n) where n is the size of the queue
