@@ -2,7 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// this is 2 pass soln, TC = 2 * O(2N) = O(4N) 
+// this is 3 pass soln, TC = 2 * O(2N) + O(N) = O(5N) 
+// explanation: O(2N) for finding nse and pse, O(N) for calculating area, O(2N) for pushing and popping from stack two times, so total = O(5N) ~ O(N)
 //***************************BRUTE FORCE SOLN***************************
 // here stored indices, also for nse last index is n not -1
 class Solution {
